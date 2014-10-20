@@ -1,6 +1,6 @@
 {
 "content": [
-    {"title": "LoopBack MongoDB Connector API", "depth": 2},
+    {"title": "LoopBack Orchestrate.io Connector API", "depth": 2},
     "lib/mongodb.js"
   ],
   "codeSectionDepth": 3
