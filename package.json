@@ -1,11 +1,11 @@
 {
-  "name": "loopback-connector-mongodb",
+  "name": "loopback-connector-orchestrate",
   "version": "1.4.4",
-  "description": "LoopBack MongoDB Connector",
+  "description": "LoopBack Orchestrate.io Connector",
   "keywords": [
     "StrongLoop",
     "LoopBack",
-    "MongoDB",
+    "Orchestrate.io",
     "DataSource",
     "Connector"
   ],
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "loopback-connector": "1.x",
-    "mongodb": "~1.4.7",
+    "orchestrate": "0.3.12",
     "async": "~0.9.0",
     "debug": "~1.0.2"
   },
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-mongodb"
+    "url": "https://github.com/VincentLahaye/loopback-connector-orchestrate/"
   },
   "license": {
     "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/strongloop/loopback-connector-mongodb/blob/master/LICENSE"
+    "url": "https://github.com/VincentLahaye/loopback-connector-orchestrate/blob/master/LICENSE"
   }
 }
